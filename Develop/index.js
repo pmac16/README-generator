@@ -11,8 +11,16 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'github',
-        message: 'Enter your GitHub Username'
+        name: 'username',
+        message: 'Enter your GitHub Username.',
+        validate: githubInput => {
+            if(githubInput) {
+                return true;
+            } else {
+                console.log('You need to enter a Github username.')
+            }
+        }
+        
         //add in a validation because it has to link correctly 
     },
     {

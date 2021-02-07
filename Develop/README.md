@@ -1,9 +1,9 @@
-# Code Refractor [License Badge]
+# The Phantom Tollbooth ![badge](https://img.shields.io/badge/license-BSD-green)
  
-  ##Description
+  ## Description
   ```
 
-  This project is designed to help make your life easier!;
+  test;
 
   ```
 
@@ -26,29 +26,30 @@
 
   To install necessary dependencies, run the following command:
 
+  ```
   npm i
+  ```
 
   ## Usage
 
-  dfsfjdkfls
+  dkfslfdjs
 
   ## Contribution 
 
-  To contribute to this project, please add your ideas
+  To contribute to this project, kdfjlsk
 
   ## Tests
 
-  npm initial
+  npm i
 
   ## License
+  ![badge](https://img.shields.io/badge/license-BSD-green)
 
-  This application is covered under Apache licensing.
+  This application is covered under BSD licensing.
 
   ## Questions
 
   If you have additional questions, please email me at priya.macpherson@gmail.com.
 
-  
-
-
+  Connect with me on GitHub! : [pmac16](https://github.com/pmac16)
 
