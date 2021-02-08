@@ -3,8 +3,8 @@
   ## Description
   
   ### User Story
-  AS A developer
-  I WANT a README generator
+  AS A developer <br>
+  I WANT a README generator <br>
   SO THAT I CAN quickly create a professional README for a new project 
 
   ## Table of Contents
@@ -35,11 +35,12 @@
 
   ## Walkthrough
 
-
+  Click [here](https://drive.google.com/file/d/1DDt8TvrazpOeO4UN0dUWuNRXpQSH9asm/view) to see a walkthrough of the application.
 
   ## Screenshot 
 
-
+  ![Screenshot of Sample README.md file](Screenshot.png)
+ 
 
   ## Contribution 
 
@@ -51,4 +52,5 @@
 
   Connect with me on GitHub! : [pmac16](https://github.com/pmac16)
 
+### ©️Priya Macpherson
 
