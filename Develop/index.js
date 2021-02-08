@@ -20,8 +20,6 @@ const questions = [
                 console.log('You need to enter a Github username.')
             }
         }
-        
-        //add in a validation because it has to link correctly 
     },
     {
         type: 'input',
@@ -61,7 +59,7 @@ const questions = [
     }
 ]
 
-// TODO: Create a function to write README file
+// Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, err => {
         if(err) throw err;
@@ -70,7 +68,7 @@ function writeToFile(fileName, data) {
     } );
 }
 
-// TODO: Create a function to initialize app
+// Create a function to initialize app
 function init() {
     
          inquirer.prompt(questions)

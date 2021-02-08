@@ -1,9 +1,9 @@
-# The Phantom Tollbooth ![badge](https://img.shields.io/badge/license-BSD-green)
+# Sample Project Title ![badge](https://img.shields.io/badge/license-Mozilla-green)
  
   ## Description
   ```
 
-  test;
+  Sample description --> Description goes here.;
 
   ```
 
@@ -32,20 +32,23 @@
 
   ## Usage
 
-  dkfslfdjs
+  This application will help you do blank.
 
   ## Contribution 
 
-  To contribute to this project, kdfjlsk
+  To contribute to this project, All contributions are welcome and can be found on the issues page.
 
   ## Tests
 
-  npm i
-
+  To run tests, use:
+  ```
+  Does not apply to this project.
+  ```
+  
   ## License
-  ![badge](https://img.shields.io/badge/license-BSD-green)
+  ![badge](https://img.shields.io/badge/license-Mozilla-green)
 
-  This application is covered under BSD licensing.
+  This application is covered under Mozilla licensing.
 
   ## Questions
 
